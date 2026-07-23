@@ -1,0 +1,6 @@
+@Virtual.API_HostAddress = http://localhost:5221
+
+GET {{Virtual.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

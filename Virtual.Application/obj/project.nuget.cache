@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y3z5ulRaY44=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zhora\\source\\repos\\VirtualMillioner\\Virtual.Application\\Virtual.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zhora\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.11\\microsoft.windowsdesktop.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\zhora\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.11\\microsoft.netcore.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\zhora\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.11\\microsoft.aspnetcore.app.ref.9.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
